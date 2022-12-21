@@ -15,6 +15,8 @@ This program requires `openssl` as it handles encryption and decryption. On most
 
 `noted [-l/--list]`: writes the name of every note to stdout.
 
+`noted [-h/--help]`: prints the help dialogue.
+
 ## Installation
 ```sh
 curl -fsSL https://github.com/the-unwelcome/noted/raw/main/noted.sh -o noted && chmod a+x noted
